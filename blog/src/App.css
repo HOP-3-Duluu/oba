@@ -1,0 +1,39 @@
+.App {
+  background-color: whitesmoke;
+  height: 100vh;
+}
+
+.input-container {
+  display: flex;
+  width: 150px;
+  height: 150px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.Addpost {
+  padding-left: 25px;
+}
+
+.postButton{
+  margin-top: 15px;
+}
+
+.post_image{
+  width: 800px;
+}
+
+.post-container {
+  border: 1px solid black;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 200px;
+  height: 200px;
+}
+
+.posts{
+  display: flex;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  height: 202px;
+}
